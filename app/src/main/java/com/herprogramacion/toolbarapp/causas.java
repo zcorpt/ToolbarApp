@@ -4,8 +4,8 @@ package com.herprogramacion.toolbarapp;
  * Created by Omar on 23/05/2017.
  */
 
-public class Causas {
-/*AQUÍ VAN LAS CAUSAS Y SÍNTOMAS DE DE LA ENFERMEDAD*/
+public class causas {
+    /*AQUÍ VAN LAS CAUSAS Y SÍNTOMAS DE DE LA ENFERMEDAD*/
 
     static String causas1[] = {
 /*Acné*/

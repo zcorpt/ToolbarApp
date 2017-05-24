@@ -76,7 +76,7 @@ public class DetailActivity extends AppCompatActivity {
 
         //TextView de Causas
         TextView causas1 = (TextView)findViewById(R.id.txtcausa);
-        causas1.setText(Causas.getCausas(index));
+        causas1.setText(causas.getCausas(index));
 
         //TextView de tratamiento
         TextView tratamiento1 = (TextView)findViewById(R.id.txttratamiento);
