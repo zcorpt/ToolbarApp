@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Diccionario Dr. App</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="action_add">Añadir</string>
+    <string name="action_favorite">Marcar Favorito</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="girl_ipsum">
+        Aquí va la descripción de la enfermedad,
+        en este apartado va la descripción completa de la s enfermedades, y va a cambiar de forma
+        dinámica para cada una de las vistas
+    </string>
+    <string name="action_search">Buscar</string>
+</resources>
