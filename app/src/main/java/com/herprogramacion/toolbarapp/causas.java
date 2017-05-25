@@ -22,7 +22,7 @@ public class causas {
                     "•\tPuntos negros \n" + "\n",
 /*Bronquitis*/
             "En la mayoría de los casos, la bronquitis aguda surge a causa de una infección vírica.\n" +
-                    "En ocasiones, puede surgir por una infección bacteriana.\n" +
+                    "En ocasiones, puede surgir por una infección bacteriana.\n" + "\n"+
                     "\nSÍNTOMAS\n" +
                     "La bronquitis aguda puede causar lo siguiente:\n" +
                     "•\tTos, con o sin esputo.\n" +
@@ -37,7 +37,9 @@ public class causas {
                     "•\tAsma.\n" +
                     "•\tExposición a inhalantes respiratorios en el trabajo.\n",
 /*Brucelosis*/
-            "La bacteria brúcela puede infectar al ganado vacuno, las cabras, los camellos, los perros y los cerdos. La bacteria se puede diseminar a los humanos si usted entra en contacto con carne infectada o la placenta de animales infectados o si bebe leche o come queso sin pasteurizar.\n" +"\n"+
+            "La bacteria brúcela puede infectar al ganado vacuno, las cabras, los camellos, los perros y los cerdos." +
+                    " La bacteria se puede diseminar a los humanos si usted entra en contacto con carne infectada o" +
+                    " la placenta de animales infectados o si bebe leche o come queso sin pasteurizar.\n" +"\n"+
                     "SINTOMAS\n" +
                     "•\tFiebre\n" +
                     "•\tEscalofríos\n" +
@@ -53,7 +55,8 @@ public class causas {
 /*Caspa*/
             "Se desconoce la causa exacta de la dermatitis seborreica, aunque una levadura común de la piel, llamada Malassezia, puede tener una función determinante en algunos casos. \n" +
                     "La dermatitis seborréica puede afectar a una familia completa y a las personas con piel o pelo grasosos. " +
-                    "También puede estar relacionada con otras condiciones crónicas, como las enfermedades de los sistemas inmune y nerviosos.\n" +
+                    "También puede estar relacionada con otras condiciones crónicas, como las enfermedades de los " +
+                    "sistemas inmune y nerviosos.\n" + "\n"+
 
                     "SÍNTOMAS\n" +
                     "Los síntomas de la dermatitis seborréica pueden ser moderados o severos. \n" +
@@ -82,7 +85,8 @@ public class causas {
             "Si bien la causa exacta se desconoce, los factores que pueden cumplir una función en la depresión incluyen: \n" +
                     "Tener antecedentes familiares de depresión (vínculo genético).\n" +
                     "Tener determinado tipo de química cerebral.\n" +
-                    "Experimentar sucesos estresantes o traumáticos (p. ej., muerte en la familia, divorcio, pérdida del trabajo).\n" +
+                    "Experimentar sucesos estresantes o traumáticos (p. ej., muerte en la familia, divorcio," +
+                    " pérdida del trabajo).\n" + "\n"+
 
                     "SÍNTOMAS\n" +
                     "La depresión puede variar de una persona a otra. Algunas personas tienen sólo unos pocos síntomas, mientras que otras tienen muchos.Los síntomas pueden cambiar con el tiempo e incluyen:\n" +
@@ -94,7 +98,10 @@ public class causas {
                     "•\tCansancio\n" +
                     "•\tProblemas para concentrarse, recordar o tomar decisiones\n",
 /*Diabetes tipo 2*/
-            "Es mayor la frecuencia de diabetes tipo 2 en personas con antecedentes familiares de diabetes. Se han descubierto muchos genes relacionados con el desarrollo de diabetes, aunque este componente genético es complejo y, posiblemente, debe acompañarse de factores ambientales como los hábitos de vida: sedentarismo y alimentación inadecuada.\n" + "\n"+
+            "Es mayor la frecuencia de diabetes tipo 2 en personas con antecedentes familiares de diabetes. " +
+                    "Se han descubierto muchos genes relacionados con el desarrollo de diabetes, aunque este componente" +
+                    " genético es complejo y, posiblemente, debe acompañarse de factores ambientales como los hábitos " +
+                    "de vida: sedentarismo y alimentación inadecuada.\n" + "\n"+
                     "SINTOMAS\n" +
                     "•\tInfección en la vejiga, el riñón, la piel u otras infecciones que son más frecuentes o sanan lentamente\n" +
                     "•\tFatiga\n" +
@@ -103,7 +110,8 @@ public class causas {
                     "•\tAumento de la micción\n" +
                     "•\tVisión borrosa\n",
 /*Esclerosis Multiple*/
-            "No se sabe exactamente qué causa la EM. La creencia más frecuente es que los culpables son un virus, un defecto genético, o ambos. Los factores ambientales también pueden jugar un papel importante.\n"+
+            "No se sabe exactamente qué causa la EM. La creencia más frecuente es que los culpables son un virus, " +
+                    "un defecto genético, o ambos. Los factores ambientales también pueden jugar un papel importante.\n"+ "\n"+
                     "\n"+ "SINTOMAS\n" +
                     "Síntomas musculares:\n" +
                     "•\tPérdida del equilibrio\n" +
@@ -143,7 +151,8 @@ public class causas {
                     "•\tProblemas para masticar y deglutir\n",
 /*Faringitis*/
             "La faringitis es causada por hinchazón de la parte posterior de la garganta (faringe), entre las amígdalas y la laringe.\n" +
-                    "La mayoría de los dolores de garganta son causados por resfriados, gripe, virus coxsackie o mononucleosis.\n" + "\n"+
+                    "La mayoría de los dolores de garganta son causados por resfriados, gripe, virus coxsackie " +
+                    "o mononucleosis.\n" + "\n"+
                     "SINTOMAS\n" +
                     "•\tDolor de garganta \n" +
                     "•\tFiebre\n" +
@@ -163,6 +172,7 @@ public class causas {
                     "•\tIngerir o beber sustancias corrosivas o cáusticas (como venenos).\n" +
                     "•\tEstrés extremo.\n" +
                     "•\tInfección viral, como citomegalovirus y el virus del herpes simple.\n" + " \n"+
+
                     "SINTOMAS\n" +
                     "•\tInapetencia\n" +
                     "•\tNáuseas y vómitos\n" +
@@ -172,8 +182,13 @@ public class causas {
                     "•\tHeces negras\n" +
                     "•\tVómitos con sangre o material con aspecto de café molido\n",
 /*Gripe*/
-            "El virus de la gripe inicialmente se une a las células de la mucosa de las vías respiratorias superiores (células secretoras de mucosidad, células ciliadas y células epiteliales) y las destruye, eliminando así el primer sistema de defensa del sistema respiratorio, y posteriormente puede alcanzar las vías respiratorias inferiores causando una descamación grave del epitelio bronquial o alveolar.\n"
-                    + "\n"+ "SINTOMAS\n" +
+            "El virus de la gripe inicialmente se une a las células de la mucosa de las vías respiratorias " +
+                    "superiores (células secretoras de mucosidad, células ciliadas y células epiteliales) y " +
+                    "las destruye, eliminando así el primer sistema de defensa del sistema respiratorio, y " +
+                    "posteriormente puede alcanzar las vías respiratorias inferiores causando una descamación " +
+                    "grave del epitelio bronquial o alveolar.\n" + "\n"+
+
+                    "SINTOMAS\n" +
                     "Los síntomas de la gripe aparecen súbitamente y son peores que los del resfrío. Pueden incluir:\n" +
                     "•\tDolores en el cuerpo y los músculos\n" +
                     "•\tEscalofríos\n" +
@@ -182,12 +197,13 @@ public class causas {
                     "•\tDolor de cabeza\n" +
                     "•\tDolor de garganta\n",
 /*Hepatitis B*/
-            "Este virus generalmente se contagia por el contacto con los líquidos corporales de una persona infectada. \n" +
+            "Este virus generalmente se contagia por el contacto con los líquidos corporales de una " +
+                    "persona infectada. \n" +
                     "Los fluidos incluyen:\n" +
                     "•\tSangre\n" +
                     "•\tEl semen\n" +
                     "•\tLos flujos vaginales\n" +
-                    "•\tLa saliva\n" +
+                    "•\tLa saliva\n" + "\n"+
 
                     "SÍNTOMAS\n"+
                     "Pueden aparecer alrededor de 25 a 180 días después del contacto con el virus.\n " +
@@ -203,6 +219,7 @@ public class causas {
                     "•\tEl estado de los riñones, el sistema nervioso o los vasos sanguíneos\n" +
                     "•\tSus niveles hormonales\n" +
                     "•\tAlto consumo en sodio \n"+ "\n" +
+
                     "SINTOMAS\n" +
                     "La hipertensión maligna es una forma peligrosa de presión arterial muy alta. Los síntomas incluyen:\n" +
                     "•\tDolor de cabeza fuerte\n" +
@@ -213,7 +230,10 @@ public class causas {
 /*Insomnio*/
             "Enfermedades metabólicas y hormonales, neurológicas, reumatológicas, digestivas, cardiovasculares y todas aquellas que pueden interrumpir el sueño por dolor –fibromialgia, cefaleas, etc- o urológicas por la necesidad urgente de micción –infecciones, próstata, renales. También hay que considerar el embarazo y la menopausia.\n" +
                     "puntito\n" +
-                    "Enfermedades psiquiátricas (ansiedad, depresión, esquizofrenia, etc), así como otras enfermedades del sueño que contribuyen a dormir menos o peor (síndrome de piernas inquietas, síndrome de apnea de sueño, parasomnias, etc.\n" + "\n"+
+                    "Enfermedades psiquiátricas (ansiedad, depresión, esquizofrenia, etc), así como otras " +
+                    "enfermedades del sueño que contribuyen a dormir menos o peor (síndrome de piernas inquietas, " +
+                    "síndrome de apnea de sueño, parasomnias, etc.\n" + "\n"+
+
                     "SINTOMAS\n" +
                     "Cognitivos: lentitud para realizar actividades o falta de concentración\n" +
                     "También comunes: dificultad para dormir, somnolencia durante el día, depresión, dolor de cabeza o irritabilidad\n",
@@ -223,13 +243,19 @@ public class causas {
                     "•\tHistoria previa de tratamiento para otras enfermedades cancerosas: Haber recibido quimioterapia o radioterapia puede provocar una alteración o daño celular que derive en lo que se conoce como una leucemia secundaria.\n" +
                     "•\tPadecer un trastorno genético: Enfermedades como el síndrome de Down incrementan la posibilidad de una persona de padecer leucemia.\n" +
                     "•\tExposisión a agentes tóxicos: El contacto con determinados agentes tóxicos, ya que sean ambientales, profesionales o asociados a hábitos como el tabaquismo, aumentan el riesgo de leucemia.\n" +
-                    "•\tHistoria familiar: En casos minoritarios, tener antecedentes familiares de leucemia puede ser un factor de riesgo.\n" + "\n" +
+                    "•\tHistoria familiar: En casos minoritarios, tener antecedentes familiares de leucemia " +
+                    "puede ser un factor de riesgo.\n" + "\n" +
+
                     "SINTOMAS\n" +
                     "•\tÁreas de dolor: articulaciones o huesos\n" +
                     "•\tTodo el cuerpo: debilidad, fatiga, fiebre, mareos o pérdida de apetito\n" +
                     "•\tTambién comunes: adenopatía, dificultad para respirar, hemorragia, hemorragia nasal, infecciones frecuentes, moretones frecuentes, palidez, petequia, pérdida de peso involuntaria o úlcera bucal\n",
 /*Malaria*/
-            "Es causada por un parásito que se transmite a los humanos a través de la picadura de mosquitos anofeles infectados. Después de la infección, los parásitos (llamados esporozoítos) viajan a través del torrente sanguíneo hasta el hígado, donde maduran y producen otra forma, llamada merozoítos. Los parásitos ingresan en el torrente sanguíneo e infectan a los glóbulos rojos.\n" + "\n" +
+            "Es causada por un parásito que se transmite a los humanos a través de la picadura de mosquitos " +
+                    "anofeles infectados. Después de la infección, los parásitos (llamados esporozoítos) viajan " +
+                    "a través del torrente sanguíneo hasta el hígado, donde maduran y producen otra forma, " +
+                    "llamada merozoítos. Los parásitos ingresan en el torrente sanguíneo e infectan a los glóbulos rojos.\n" + "\n" +
+
                     "SINTOMAS\n" +
                     "Los síntomas incluyen:\n" +
                     "•\tAnemia\n" +
@@ -244,7 +270,8 @@ public class causas {
 /*Migraña*/
             "Se desconoce la causa exacta. Entre las causas posibles se encuentran factores desencadenantes genéticos y ambientales." +
                     "Las migrañas pueden ser producidas por cambios en un nervio que actúa como una vía sensitiva importante." +
-                    " Un desequilibrio en las sustancias químicas del cerebro, como la serotonina, también puede constituir un factor.\n" +
+                    " Un desequilibrio en las sustancias químicas del cerebro, como la serotonina, también " +
+                    "puede constituir un factor.\n" + "\n"+
 
                     "SÍNTOMAS\n"+
                     "as migrañas ocurren en fases que pueden incluir:\n" +
@@ -260,7 +287,7 @@ public class causas {
                     "El exceso de peso localizado en la región abdominal es motivo de especial preocupación.\n" +
                     "•\tDaño a los vasos sanguíneos\n" +
                     "•\tFactores autoinmunes\n" +
-                    "•\tGenética\n" +
+                    "•\tGenética\n" + "\n"+
 
                     "SÍNTOMAS\n"+
                     "Los síntomas de neuropatía diabética pueden incluir:\n" +
@@ -271,7 +298,11 @@ public class causas {
                     "•\t•Diarrea o estreñimiento\n" +
                     "•\t•Mareos\n",
 /*Orzuelo*/
-            "Un orzuelo es causado por un bloqueo en una de las glándulas sebáceas en los párpados. Esto permite que las bacterias se multipliquen dentro de la glándula bloqueada. Los orzuelos se parecen mucho a los granos comunes del acné que se dan en cualquier parte de la piel. Usted puede tener más de un orzuelo al mismo tiempo.\n" + "\n" +
+            "Un orzuelo es causado por un bloqueo en una de las glándulas sebáceas en los párpados. " +
+                    "Esto permite que las bacterias se multipliquen dentro de la glándula bloqueada. " +
+                    "Los orzuelos se parecen mucho a los granos comunes del acné que se dan en cualquier " +
+                    "parte de la piel. Usted puede tener más de un orzuelo al mismo tiempo.\n" + "\n" +
+
                     "SINTOMAS\n" +
                     "Además de la protuberancia enrojecida e inflamada, otros posibles síntomas son:\n" +
                     "•\tSensación irritante y arenosa, como si hubiese un cuerpo extraño en el ojo\n" +
@@ -279,7 +310,10 @@ public class causas {
                     "•\tLagrimeo del ojo\n" +
                     "•\tSensibilidad del párpado\n",
 /*Paperas*/
-            "Son causadas por un virus. Este se transmite de una persona a otra por medio de las gotitas de la humedad de la nariz o la boca, como por ejemplo, cuando una persona estornuda. También se propaga a través del contacto directo con artículos que contienen saliva infectada.\n" + "\n" +
+            "Son causadas por un virus. Este se transmite de una persona a otra por medio de las gotitas " +
+                    "de la humedad de la nariz o la boca, como por ejemplo, cuando una persona estornuda. " +
+                    "También se propaga a través del contacto directo con artículos que contienen saliva infectada.\n" + "\n" +
+
                     "SINTOMAS\n" +
                     "Los síntomas de paperas pueden incluir:\n" +
                     "•\tDolor facial\n" +
@@ -298,7 +332,7 @@ public class causas {
                     "•\tAlcoholismo(la causa más común)\n" +
                     "•\tCálculos biliaresy otras obstrucciones de los conductos biliares\n" +
                     "•\tCirugía o trauma en el páncreas\n" +
-                    "•\tAlgunos medicamentos\n" +
+                    "•\tAlgunos medicamentos\n" + "\n"+
 
                     "SÍNTOMAS\n"+
                     "Los síntomas incluyen:\n" +
@@ -310,7 +344,11 @@ public class causas {
                     "•\tDiarrea\n" +
                     "•\tFiebre\n",
 /*Quistes Ovaricos*/
-            "Cada mes, durante el ciclo menstrual, crece un folículo (donde el óvulo se está desarrollando) en el ovario. La mayoría de los meses, se libera un óvulo de este folículo, lo cual se denomina ovulación. Si el folículo no logra abrirse y liberar un óvulo, el líquido permanece dentro del folículo y forma un quiste, el cual se denomina quiste folicular.\n" + "\n" +
+            "Cada mes, durante el ciclo menstrual, crece un folículo (donde el óvulo se está desarrollando) " +
+                    "en el ovario. La mayoría de los meses, se libera un óvulo de este folículo, lo cual se " +
+                    "denomina ovulación. Si el folículo no logra abrirse y liberar un óvulo, el líquido " +
+                    "permanece dentro del folículo y forma un quiste, el cual se denomina quiste folicular.\n" + "\n" +
+
                     "SINTOMAS\n" +
                     "Los quistes ováricos con frecuencia no causan síntomas.\n" +
                     "Un quiste ovárico tiene más probabilidad de causar dolor si:\n" +
@@ -332,7 +370,9 @@ public class causas {
                     "Usted puede contraer un resfriado si:\n" +
                     "Una persona con un resfriado estornuda, tose o se suena la nariz cerca de usted.\n" +
                     "Usted se toca la nariz, los ojos o la boca después de haber tocado algo contaminado por el virus, como un juguete o el pestillo de una puerta.\n" +
-                    "Las personas son más contagiosas durante los primeros 2 a 3 días del resfriado. Un resfriado en la mayoría de los casos no es contagioso después de la primera semana.\n"+ "\n"+
+                    "Las personas son más contagiosas durante los primeros 2 a 3 días del resfriado. " +
+                    "Un resfriado en la mayoría de los casos no es contagioso después de la primera semana.\n"+ "\n"+
+
                     "SINTOMAS\n" +
                     "Los síntomas del resfriado por lo regular comienzan aproximadamente de 2 a 3 días después de que usted entró en contacto con el virus, aunque podrían demorar hasta una semana. Los síntomas afectan principalmente la nariz.\n" +
                     "Los síntomas más frecuentes del resfriado son:\n" +
@@ -347,7 +387,8 @@ public class causas {
             "El SIDA es consecuencia de la infección del virus de inmunodeficiencia humana (VIH). El VIH ataca y destruye " +
                     "las células del sistema inmunitario que luchan contra las enfermedades y deja el organismo indefenso " +
                     "ante las infecciones y el cáncer.\n" + "\n"+
-            "SINTOMAS\n" +
+
+                    "SINTOMAS\n" +
                     "Los síntomas relacionados con la infección aguda por VIH (cuando una persona se infecta por primera vez) pueden ser similares a la gripe u otras enfermedades virales. Estas incluyen:\n" +
                     "•\tFiebre y dolor muscular\n" +
                     "•\tDolor de cabeza\n" +
@@ -357,7 +398,10 @@ public class causas {
                     "•\tGanglios linfáticos inflamados\n" +
                     "•\tDiarrea\n",
 /*Tracoma*/
-            "El tracoma se propaga a través del contacto directo con el ojo o nariz infectados o las secreciones de la garganta. También se puede propagar por el contacto con objetos contaminados, como toallas o prendas de vestir. Además, ciertas moscas pueden transmitir la bacteria.\n" + "\n" +
+            "El tracoma se propaga a través del contacto directo con el ojo o nariz infectados o las " +
+                    "secreciones de la garganta. También se puede propagar por el contacto con objetos " +
+                    "contaminados, como toallas o prendas de vestir. Además, ciertas moscas pueden transmitir la bacteria.\n" + "\n" +
+
                     "SINTOMAS\n" +
                     "Los síntomas comienzan de 5 a 12 días después de haber estado expuesto a la bacteria. La afección comienza lentamente. Primero aparece como una inflamación del tejido que recubre los párpados (conjuntivitis u \"ojo rojo\"). Sin tratamiento, esto puede conducir a cicatrización.\n" +
                     "Los síntomas pueden abarcar:\n" +
@@ -367,7 +411,11 @@ public class causas {
                     "•\tPárpados inflamados\n" +
                     "•\tPestañas invertidas\n",
 /*Urticaria*/
-            "Cuando usted tiene una reacción alérgica a una sustancia, el cuerpo libera histamina y otros químicos dentro del torrente sanguíneo. Esto causa prurito, inflamación y otros síntomas. La urticaria es una reacción común. Las personas con otras reacciones alérgicas, como la fiebre de heno, a menudo presentan urticaria.\n" + "\n" +
+            "Cuando usted tiene una reacción alérgica a una sustancia, el cuerpo libera histamina y " +
+                    "otros químicos dentro del torrente sanguíneo. Esto causa prurito, inflamación y " +
+                    "otros síntomas. La urticaria es una reacción común. Las personas con otras " +
+                    "reacciones alérgicas, como la fiebre de heno, a menudo presentan urticaria.\n" + "\n" +
+
                     "SINTOMAS\n" +
                     "Los síntomas de urticaria pueden incluir cualquiera de los siguientes:\n" +
                     "•\tPrurito\n" +
@@ -380,6 +428,7 @@ public class causas {
                     "La varicela se puede contagiar muy fácilmente a otras personas desde el día 1 al 2 antes de que se presenten las ampollas hasta que se formen las costras. Puede contagiarse de varicela:\n" +
                     "Por tocar los líquidos de una ampolla de varicela.\n" +
                     "Si alguien con varicela tose o estornuda cerca de usted.\n"+ "\n"+
+
                     "SINTOMAS\n" +
                     "La mayoría de los niños y adultos con varicela presentan los siguientes síntomas antes de que aparezca el sarpullido:\n" +
                     "•\tFiebre\n" +
