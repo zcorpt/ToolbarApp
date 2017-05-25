@@ -364,7 +364,8 @@ public class causas {
                     "•\tDolor pélvico poco después del comienzo o finalización del período menstrual\n" +
                     "•\tDolor con las relaciones sexuales o dolor pélvico durante el movimiento\n" +
                     "•\tDolor pélvico constante y sordo\n" +
-                    "•\tDolor pélvico intenso y repentino, a menudo con náuseas y vómitos, que puede ser un signo de torsión o retorcimiento del ovario en su riego sanguíneo o ruptura de un quiste con sangrado interno\n",
+                    "•\tDolor pélvico intenso y repentino, a menudo con náuseas y vómitos, que puede ser un signo de " +
+                    "torsión o retorcimiento del ovario en su riego sanguíneo o ruptura de un quiste con sangrado interno\n",
 /*Resfriado*/
             "Un virus del resfriado se propaga a través de diminutas gotitas aéreas que se liberan cuando una persona enferma estornuda, tose o se suena la nariz.\n" +
                     "Usted puede contraer un resfriado si:\n" +
@@ -422,7 +423,8 @@ public class causas {
                     "Inflamación de la superficie de la piel con ronchas (también llamadas habones) de color similar al de la piel o rojizo con bordes claramente definidos\n" +
                     "•\tLas ronchas se pueden agrandar, diseminar y unir formando zonas más grandes de piel plana y elevada.\n" +
                     "•\tTambién pueden cambiar de forma, desaparecer y reaparecer al cabo de minutos u horas. Puede saber " +
-                    "que tiene urticaria cuando se presiona el centro de una roncha y esta se torna blanca. Esto se denomina palidez.\n",
+                    "que tiene urticaria cuando se presiona el centro de una roncha y esta se torna blanca. " +
+                    "Esto se denomina palidez.\n",
 /*Varicela*/
             "El virus que causa la varicela es el virus varicela zoster. Es un miembro de la familia del herpesvirus, que causa también la culebrilla en los adultos.\n" +
                     "La varicela se puede contagiar muy fácilmente a otras personas desde el día 1 al 2 antes de que se presenten las ampollas hasta que se formen las costras. Puede contagiarse de varicela:\n" +

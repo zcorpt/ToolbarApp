@@ -19,7 +19,9 @@ public class Especialistas {
                     "•Fuente: CCM salud, Luque, A. y Marnet.",
 /*Bronquitis*/
             "Neumólogo: \n" +
-                    "Es el médico especialista en diagnosticar y tratar los padecimientos del aparato respiratorio, principalmente aquellas que se originan en los bronquios, pulmones y pleura, membrana que recubre a los pulmones.",
+                    "Es el médico especialista en diagnosticar y tratar los padecimientos del aparato " +
+                    "respiratorio, principalmente aquellas que se originan en los bronquios, pulmones y " +
+                    "pleura, membrana que recubre a los pulmones.",
 
 //Brucelosis
             "Infectologo: \n" +
@@ -28,7 +30,7 @@ public class Especialistas {
                     "Trata los trastornos del sistema nervioso \n" + "\n" +
                     "Médico de atención primaria: \n" +"\n" +
                     "Previene, diagnostica y trata enfermedades.\n" +"\n" +
-                     "\n" +
+                    "\n" +
                     "Fuente: MedlinePlus, Vega C. y colaboradores.",
 
 //CASPA//
@@ -50,19 +52,85 @@ public class Especialistas {
 
 //DEPRESION//
             "Psiquiatra: \n" +
-            "Se encarga de diagnosticar y tratar las enfermedades mentales abordándolos prioritariamente desde su parte fisiológica ya sea prescribiendo medicación u otro tipo de intervención médica que sea necesaria a fin de equilibrar la bioquímica del cerebro y reparar o compensar la fisiología que este deteriorada, teniendo siempre en cuenta las variables psicológicas que hay que abordar para el completo restablecimiento del paciente."
-            + "\n" +
+                    "Se encarga de diagnosticar y tratar las enfermedades mentales abordándolos prioritariamente " +
+                    "desde su parte fisiológica ya sea prescribiendo medicación u otro tipo de intervención médica " +
+                    "que sea necesaria a fin de equilibrar la bioquímica del cerebro y reparar o compensar la " +
+                    "fisiología que este deteriorada, teniendo siempre en cuenta las variables psicológicas que hay " +
+                    "que abordar para el completo restablecimiento del paciente."
+                    + "\n" +
                     "Psicólogo: \n"+
-                    "se encarga de evaluar y tratar las enfermedades y los desordenes mentales abordándolos desde la rehabilitación psicológica, es decir interviniendo de forma externa para modificar ciertos funcionamientos cerebrales disfuncionales.",
+                    "se encarga de evaluar y tratar las enfermedades y los desordenes mentales abordándolos " +
+                    "desde la rehabilitación psicológica, es decir interviniendo de forma externa para " +
+                    "modificar ciertos funcionamientos cerebrales disfuncionales.",
 
-//HIPERTENSION ARTERIAL
-            "Cardiólogo: \n" +
+//DIABETES TIPO 2//
+
+            "•\tMédico de atención primaria \n" +
+                    "Previene, diagnostica y trata enfermedades.\n" +
+                    "•\tNutriólogo \n" +
+                    "Especialista en alimentación y nutrición. \n" +
+                    "\n" + "\n"+
+                    "Fuente: Clínica Universidad de Navarra y MedlinePlus",
+
+
+//Esclerosis Multiple//
+            "•\tNeurólogo\n" +
+                    "Trata los trastornos del sistema nervioso \n" +
+                    "•\tFonoaudiólogo\n" +
+                    "Es especialista en rehabilitación de la voz \n" +
+                    "•\tTerapeuta ocupacional \n" +
+                    "Mejora la vida diaria y las habilidades motrices de los pacientes. \n" +
+                    "•\tMédico de atención primaria \n" +
+                    "Previene, diagnostica y trata enfermedades.\n" +
+                    "\n" + "\n" + "Fuente: MedlinePlus",
+
+//FARINGITIS//
+            "•\tMédico de atención primaria \n" +
+                    "Previene, diagnostica y trata enfermedades.\n" +
+                    "•\tPediatra \n" +
+                    "Brinda atención médica a bebes, niños y adolescentes. \n" +
+                    "\n" + "\n"+
+                    "Fuente: MedlinePlus",
+
+//GASTRITIS//
+            "•\tGastroenterólogo\n" +
+                    "Es especialista en el aparato digestivo \n" +
+                    "•\tMédico de atención primaria \n" +
+                    "Previene, diagnostica y trata enfermedades.\n" +
+                    "\n" +
+                    " \n"+ "\n"+ "Fuente: MedlinePlus",
+
+//GRIPE//
+            "•\tMédico de atención primaria \n" +
+                    "Previene, diagnostica y trata enfermedades.\n" +
+                    "•\tPediatra \n" +
+                    "Brinda atención médica a bebes, niños y adolescentes. \n" +
+                    "\n" + "\n" + "Fuente: MedlinePlus",
+
+//HEPATITIS B//
+            "Hepatólogo\n" +
+                    "La hepatología es la especialidad médica que se centra en el estudio del hígado y de las enfermedades que" +
+                    " pueden afectarlo. Un hepatólogo es un médico especializado en este campo.\n" +
+                    "\n" +
+                    "Hepatólogo de trasplantes\n" +
+                    "La hepatología de trasplantes es una subespecialidad de la gastroenterología. Los hepatólogos de trasplantes" +
+                    " se especializan en tratar a los pacientes durante el postoperatorio de un trasplante de hígado y" +
+                    " a los receptores de un trasplante a largo plazo.\n" +
+                    "\n" +
+                    "Gastroenterólogo\n" +
+                    "La gastroenterología es el campo de la medicina que se ocupa de las enfermedades del sistema digestivo." +
+                    " Las personas diagnosticadas de hepatitis B o C, cirrosis o abscesos, asociados al hígado o en el interior" +
+                    " de él, serán atendidas por un gastroenterólogo.",
+
+//HIPERTENSION ARTERIAL//
+            "CardiÃ³logo: \n" +
                     "Especialista en trastornos cardiacos \n" +
-                    "Médico de atención primaria: \n" +"\n" +
+                    "MÃ©dico de atenciÃ³n primaria: \n" +"\n" +
                     "Previene, diagnostica y trata enfermedades.\n" +"\n" +
-                    "Nutriólogo: \n" +"\n" +
-                    "Especialista en la alimentación y nutrición.  \n"+ "\n" +
+                    "NutriÃ³logo: \n" +"\n" +
+                    "Especialista en la alimentaciÃ³n y nutriciÃ³n.  \n"+ "\n" +
                     "Fuente: MedlinePlus.",
+
 //INSOMNIO//
             "•\tMédico de atención primaria\n" +
                     "Previene, diagnostica y trata las enfermedades.\n" +
