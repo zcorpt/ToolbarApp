@@ -35,7 +35,20 @@ public class causas {
                     "•\tSer fumador pasivo.\n" +
                     "•\tTabaquismo.\n" +
                     "•\tAsma.\n" +
-                    "•\tExposición a inhalantes respiratorios en el trabajo.\n"
+                    "•\tExposición a inhalantes respiratorios en el trabajo.\n",
+/*Brucelosis*/
+            "La bacteria brúcela puede infectar al ganado vacuno, las cabras, los camellos, los perros y los cerdos. La bacteria se puede diseminar a los humanos si usted entra en contacto con carne infectada o la placenta de animales infectados o si bebe leche o come queso sin pasteurizar.\n" +"\n"+
+                    "SINTOMAS\n" +
+                    "•\tFiebre\n" +
+                    "•\tEscalofríos\n" +
+                    "•\tFatiga\n" +
+                    "•\tPérdida de apetito \n" +
+                    "•\tSudores nocturnos\n" +
+                    "•\tAdelgazamiento\n" +
+                    "•\tAdenopatía \n" +
+                    "•\tDolor de cabeza\n" +
+                    "•\tTos\n" +
+                    "•\tÁrea de dolor (abdomen, articulaciones, espalda o músculos).  \n"
 
     };
 
